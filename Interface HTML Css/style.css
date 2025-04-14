@@ -1,0 +1,25 @@
+<!--Comentário-->
+/*RESET CSS*/
+*{
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    background-color:azure;
+    color:bisque;
+}
+
+h2 {
+    background-color: LightGray;
+    color:Orange;
+}
+
+h3{
+    background-color:Violet;
+    color:SlateBlue;
+
+}
+p{
+    color:rgb(61, 59, 59);
+}

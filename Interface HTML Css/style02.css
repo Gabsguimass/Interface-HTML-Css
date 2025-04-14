@@ -1,0 +1,35 @@
+*{
+    margin:0;
+    margin:0;
+
+}
+
+p1{
+    background-color:azure;
+    color:brown;
+    border-style: dotted;
+}
+
+p2{
+    background-color: bisque;
+    color: blueviolet;
+    border-style: dashed; 
+}
+
+p3{
+    background-color: blanchedalmond;
+    color: antiquewhite;
+    border-style: dashed;
+}
+
+p4{
+    border: 2px solid tomato;
+}
+
+.azul{
+    background-color: burlywood;
+}
+
+.café{
+    background-color: blueviolet;
+}
